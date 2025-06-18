@@ -108,3 +108,9 @@ input[type="number"]::-webkit-inner-spin-button {
 .inactive {
   opacity: 0;
 }
+
+#xy, #date {
+  color: grey;
+  font-size: 30px;
+  position: relative;
+}
